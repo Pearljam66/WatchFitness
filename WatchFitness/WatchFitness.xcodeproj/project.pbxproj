@@ -78,8 +78,8 @@
 		26307AEE2AFECAF700511B77 /* WatchFitness Watch App */ = {
 			isa = PBXGroup;
 			children = (
-				26307AEF2AFECAF700511B77 /* WatchFitnessApp.swift */,
 				26307AF12AFECAF700511B77 /* ContentView.swift */,
+				26307AEF2AFECAF700511B77 /* WatchFitnessApp.swift */,
 				26307AF32AFECAF800511B77 /* Assets.xcassets */,
 				26307AF52AFECAF800511B77 /* Preview Content */,
 			);
